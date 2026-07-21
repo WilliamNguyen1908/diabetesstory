@@ -3,6 +3,8 @@
 An exploratory data analysis of how diabetes (primarily type 2) compounds cardiovascular risk — tracing the path from blood glucose and HbA1c through cholesterol, blood pressure, and BMI to heart disease.
  
 📄 Full write-up: [Increase risk of heart disease in diabetes mellitus patient population](https://medium.com/@wpnguyen_94917/increase-risk-of-heart-disease-in-diabetes-mellitus-patient-population-42b2d2b16693)
+
+[dataset](https://drive.google.com/file/d/1JLJT0oGoW4vtl6KfDtA7CMM7jSEysDb0/view?usp=drive_link)
  
 ## Overview
  
